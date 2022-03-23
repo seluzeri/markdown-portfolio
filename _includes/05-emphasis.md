@@ -1,12 +1,12 @@
 __* Qualifiés__
-  _1 Bayern Munich
-  2 Liverpool
-  3 Chelsea
-  4 Manchester City
-  5 Villareal
-  6 Real Madrid
-  7 Atletico Madrid
-  8 Benfica_
+  _Bayern Munich
+  Liverpool
+  Chelsea
+  Manchester City
+  Villareal
+  Real Madrid
+  Atletico Madrid
+  Benfica_
 
 __* Eliminés__
   _RB Salzbourg
